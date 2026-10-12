@@ -1,6 +1,6 @@
 # Air Raid Alert Forecasting in Ukraine
 
-## 1. Formalized Problem Statement
+## Formalized Problem Statement
 
 This project solves a **binary classification problem on time-series data** for forecasting.
 
